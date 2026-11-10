@@ -1,0 +1,19 @@
+Project Name: KAAMSETU
+
+Project Description:
+KAAMSETU is an employment and entrepreneurship platform that helps people discover job opportunities, showcase their skills, connect with customers, and build digital businesses.
+
+GitHub Repository:
+https://github.com/Pocket34/KAAMSETU
+
+Core Features:
+- Employment discovery
+- Company and application information
+- Skill showcasing
+- Digital business profiles
+- Customer connections
+- AI-powered assistance
+- Hindsight persistent memory
+
+Technology:
+Next.js, TypeScript, FastAPI, Supabase, Hindsight AI Memory.
