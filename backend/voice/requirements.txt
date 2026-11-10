@@ -1,0 +1,11 @@
+# Official OmniVoice Voice Service Requirements
+# Note: For CUDA support, ensure PyTorch with CUDA is installed (e.g., torch --index-url https://download.pytorch.org/whl/cu121)
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.0.0
+torch>=2.1.0
+soundfile>=0.12.1
+omnivoice>=0.1.0
+numpy>=1.24.0
+python-multipart>=0.0.9
